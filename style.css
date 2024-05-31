@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+    justify-content: center;
+    align-self: self-start;
+    text-align: center;
+    height: 100vh;
+    background-color: #007ef5;
+    color: rgb(0, 0, 0);
+}
+button{
+    margin: 100;
+}
